@@ -1,0 +1,36 @@
+{
+  "name": "html-webpack-remark-plugin",
+  "version": "0.0.0",
+  "description": "Render Markdown to React through Remark",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bebraw/html-webpack-remark-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bebraw/html-webpack-remark-plugin/issues"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "remark",
+    "remark-react",
+    "markdown",
+    "highlighting"
+  ],
+  "peerDependencies": {
+    "html-webpack-plugin": ">= 2.0.0 < 3.0.0",
+    "react": ">= 0.11.2 < 16.0.0",
+    "react-dom": ">= 0.11.2 < 16.0.0"
+  },
+  "author": "Juho Vepsalainen",
+  "license": "MIT",
+  "dependencies": {
+    "remark": "^5.0.1",
+    "remark-react": "^2.1.0",
+    "remark-react-lowlight": "^0.1.0"
+  }
+}
