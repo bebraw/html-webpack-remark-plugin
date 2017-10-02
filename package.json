@@ -29,8 +29,8 @@
   "author": "Juho Vepsalainen",
   "license": "MIT",
   "dependencies": {
-    "remark": "^5.0.1",
-    "remark-react": "^2.1.0",
-    "remark-react-lowlight": "^0.1.0"
+    "remark": "^7.0.0",
+    "remark-react": "^4.0.1",
+    "remark-react-lowlight": "^0.7.0"
   }
 }
