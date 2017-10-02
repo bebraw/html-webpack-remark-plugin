@@ -1,6 +1,6 @@
 {
   "name": "html-webpack-remark-plugin",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Render Markdown to React through Remark",
   "main": "index.js",
   "scripts": {
