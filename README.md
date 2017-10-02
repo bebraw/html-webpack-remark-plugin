@@ -43,10 +43,6 @@ const config = {
 }
 ```
 
-You can see the plugin in action at the [react-component-boilerplate](https://github.com/survivejs/react-component-boilerplate).
-
-> Check out [SurviveJS - Webpack and React](http://survivejs.com/) to dig deeper into the topic.
-
 ## License
 
 MIT.
